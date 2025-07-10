@@ -6,8 +6,8 @@ A collection of beginner-friendly Python exercises focusing on core data structu
 
 - ✅ Lists
 - ✅ Dictionaries
-- ⏳ Tuples
-- ⏳ Strings
+- ✅ Tuples
+- ✅ Strings
 
 ## 📁 Folder-wise Structure
 
