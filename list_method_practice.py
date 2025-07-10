@@ -1,4 +1,4 @@
-'''
+
 #1. Create a list of 5 cities. Print the second city,
 # add a new city at the end, insert one at index 2,
 # and remove one city from the list.
@@ -92,7 +92,6 @@ print("list after duplicates:",numbers)
 text = input("enter the sentence:")
 res = list(text.split())
 print("The list of words :",res)
-'''
 
 #10. Write a program to check
 # if a list is a palindrome or not.)
