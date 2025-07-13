@@ -1,4 +1,4 @@
-'''#1️⃣ Take a string input and print its length.
+#1️⃣ Take a string input and print its length.
 a = 'parul'
 print("length of a :",len(a))
 
@@ -94,7 +94,7 @@ str = input("enter the string:")
 text = str.split()
 longest = max(text,key=len)
 print("the word with maximum len is :",longest)
-'''
+
 # 19️⃣ Take name and age as input and print:
 name = input("enter the user_name:")
 age = input("enter the user_age:")
