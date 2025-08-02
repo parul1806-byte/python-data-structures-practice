@@ -105,6 +105,19 @@ if numb == reverse_list:
 
 else:
     print("it is not a palindrome list")
+    
+#11.mean of an list
+n = int(input("enter the length of the list"))
+list =[]
+for i in range(n):
+  num = int(input("enter the no you want to insert in the list:"))
+  list.append(num)
+print((sum(list)/len(list))
+
+
+      
+      
+      
 
 
 
